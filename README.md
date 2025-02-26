@@ -2,6 +2,9 @@ Explication du code source HiraTest :
 
 Petit programme de test des connaissances sur les hiraganas de base (un des alphabets japonais).
 
+Installation : télécharger le master en .zip, le décompresser et lancer l'exécutable.
+
+
 -----------------------------------------------------
 
 L'intégralité du code est contenue dans le main.cpp
